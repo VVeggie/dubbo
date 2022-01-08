@@ -21,7 +21,7 @@
     <parent>
         <artifactId>dubbo-registry</artifactId>
         <groupId>org.apache.dubbo</groupId>
-        <version>${revision}</version>
+        <version>2.7.9</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
